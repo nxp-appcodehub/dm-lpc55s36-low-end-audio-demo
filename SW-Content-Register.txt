@@ -6,7 +6,7 @@ Description: Low End Audio Demo utilizing DAC output
 Release Location: https://bitbucket.sw.nxp.com/projects/MTXAPPS/repos/lpc55s36_voice_commands_dac
 Origin: NXP (LA_OPT_SOFTWAR_license)
 		NXP (BSD-3-Clause)
-        ARM CMSIS (Apache-2.0) - https://github.com/ARM-softare/CMSIS_5/releases/tag/5.8.0
+        ARM CMSIS (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0
 
 SDK_Peripheral_Driver      Name: SDK Peripheral Driver                       
                            Version: 2.x.x                                    
