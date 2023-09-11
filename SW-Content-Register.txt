@@ -4,7 +4,7 @@ Outgoing License: LA_OPT_NXP_SOFTWARE_license V35 May 2022- Additional Distribut
 License in File: license.txt
 Description: Low End Audio Demo utilizing DAC output
 Release Location: https://bitbucket.sw.nxp.com/projects/MTXAPPS/repos/lpc55s36_voice_commands_dac
-Origin: NXP (LA_OPT_SOFTWAR_license)
+Origin: NXP (LA_OPT_SOFTWARE_license)
 		NXP (BSD-3-Clause)
         ARM CMSIS (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0
 
