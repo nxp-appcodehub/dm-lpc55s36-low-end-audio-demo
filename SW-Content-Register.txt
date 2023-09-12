@@ -1,6 +1,6 @@
 Release Name: LPC55S36 Low End Audio Demo
 Release Version: 1.0
-Outgoing License: LA_OPT_NXP_SOFTWARE_license V35 May 2022- Additional Distribution License granted, license in Section 2.3 applies
+Outgoing License: LA_OPT_NXP_SOFTWARE_license V48 July 2023- Additional Distribution License granted, license in Section 2.3 applies
 License in File: license.txt
 Description: Low End Audio Demo utilizing DAC output
 Release Location: https://bitbucket.sw.nxp.com/projects/MTXAPPS/repos/lpc55s36_voice_commands_dac
