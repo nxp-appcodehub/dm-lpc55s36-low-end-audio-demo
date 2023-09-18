@@ -75,7 +75,7 @@ Pressing the corresponding key (0-9) will play the given sound.*
 No FAQs have been identified for this project
 
 ## 6. Support<a name="step6"></a>
-*Provide URLs for help here.*
+If you have any questions or find a bug, please submit a New issue in the Issues tab of this GitHub repository.
 
 #### Project Metadata
 <!----- Boards ----->
