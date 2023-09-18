@@ -1,0 +1,26 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="dm-lpc55s36-low-end-audio-demo" type="demo" format="projectfile" name="LPC55S36 Low End Audio Demo">
+    <display_title>
+        LPC55S36 Low End Audio Demo
+    </display_title>
+    <overview>
+        <![CDATA[This example demo uses DAC output to generate low end audio through an external speaker.]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mcux"></toolchain>
+    </toolchains>
+    <families>
+        <family name="lpc"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="LPCXpresso55S36"></hw>
+    </nxp_compatible_hw>
+    <peripherals>
+        <peripheral name="dac"></peripheral>
+        <peripheral name="uart"></peripheral>
+        <peripheral name="usb"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="audio"></category>
+        <category name="voice"></category>
+    </categories>
+</data:item>
