@@ -1,9 +1,10 @@
 Release Name: LPC55S36 Low End Audio Demo
 Release Version: 1.0
-Outgoing License: license.txt
-License in File: license.txt
+Outgoing License: BSD-3-Clause
+License in File: BSD-3-clause.txt
 Description: Low End Audio Demo utilizing DAC output
 Release Location: https://github.com/nxp-appcodehub/dm-lpc55s36-low-end-audio-demo
 Origin: NXP (BSD-3-Clause)
 	NXP (Proprietary)
-        ARM CMSIS (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0                                                              
+        ARM CMSIS (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0
+        
